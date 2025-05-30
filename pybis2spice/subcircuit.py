@@ -13,8 +13,8 @@
 import os.path
 
 import numpy as np
-from pybis2spice import pybis2spice
-from pybis2spice import version
+import pybis2spice
+import version
 
 
 _TIME = 0
